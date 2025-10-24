@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG) — No API Key Version
+# Retrieval-Augmented Generation (RAG)
 
 ---
 
