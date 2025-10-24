@@ -42,7 +42,7 @@ Instead of making the LLM "guess" answers from memory, RAG retrieves *real conte
 
 ---
 
-## Screenshorts
+## Screenshots
 
 Library installation
 
